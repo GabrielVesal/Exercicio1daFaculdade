@@ -1,4 +1,4 @@
-# ProjetosdaFaculdade
+# Projeto da Faculdade
 
 Projeto simples da faculdade / Exercício 1
 
