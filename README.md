@@ -8,7 +8,7 @@ preço de custo obtendo como resposta o preço de venda no país.
 <div>
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/c-1.svg"svg">
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/python-5.svg">                                                                                                                                      
-    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"> 
+
   
 ###
 Caso queira testar, copie e execute no seu IDE.
